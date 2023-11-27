@@ -1,0 +1,50 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    box-sizing: 1px;
+    margin: 18px;
+    padding: px;
+    border: 0px solid #ddd;
+}
+
+nav{
+    margin: 18px;
+    padding: 0px;
+    border: 1px solid #ddd;
+}
+footer{
+    margin: 18px;
+    padding: 0px;
+    border: 1px solid #ddd;
+}
+/*  
+section {
+    margin: 80px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    max-width: 100%;
+    margin-left:120px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+} */
+
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
+form {
+    margin-top: 20px;
+}
+.featured-products{
+    background-color: #e6f1fc;
+}
